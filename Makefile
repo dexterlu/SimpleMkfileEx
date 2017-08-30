@@ -1,6 +1,6 @@
 # Toolchain
-CC = gcc
-#CC = arm-linux-gnueabihf-gcc
+#CC = gcc
+CC = arm-linux-gnueabihf-gcc
 
 #CFLAGS = -O3 -ansi
 INC = -I .
